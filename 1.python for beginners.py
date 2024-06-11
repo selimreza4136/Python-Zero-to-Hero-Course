@@ -1,0 +1,5 @@
+print("I love Pizza")
+print("It's really good")
+print("Hey, This is Selim Reza.")
+print("I am your Python instructor.")
+print("I will be teaching you how to code in Python")
